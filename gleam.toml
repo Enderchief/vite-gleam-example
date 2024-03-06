@@ -1,0 +1,2 @@
+name = "my_project"
+dependencies = { gleam_stdlib = "~> 0.36"}
